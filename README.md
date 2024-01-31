@@ -1,2 +1,2 @@
-# LemonGeorge.Bot
- Python Discord Bot
+# LemonGeorge
+ 

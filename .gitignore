@@ -1,0 +1,7 @@
+*pycache*
+README.txt
+*.jpg
+*.env
+*.webm
+.env
+ffmpeg-6.1-full_build/
